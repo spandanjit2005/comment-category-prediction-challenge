@@ -1,7 +1,7 @@
 # Comment Category Prediction Challenge
 
 Project code for the Kaggle competition [Comment Category Prediction Challenge](https://www.kaggle.com/competitions/comment-category-prediction-challenge) for the Term 1 2026 Machine Learning Practice Project.
-`
+
 ## Project Overview
 
 Online platforms struggle to moderate harmful content at scale. This project tackles that problem by training a pipeline that classifies comments into four labels (Labels 0 through 3), where Label 0 represents the most neutral content and Label 3 represents the most explicitly violent or harmful language.
