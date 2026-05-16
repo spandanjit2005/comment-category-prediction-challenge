@@ -1,0 +1,2 @@
+train_acc,train_precision_mac,train_precision_wtd,train_recall_mac,train_recall_wtd,train_f1_mac,train_f1_wtd
+0.97970328,0.95471192,0.98014975,0.98279914,0.97970328,0.96824664,0.97980441

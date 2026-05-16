@@ -1,0 +1,15 @@
+# User-defined folders
+catboost_info/
+data/
+le-40/
+le-50/
+le-60/
+le-70/
+le-80/
+le-90/
+le-100/
+
+*.joblib
+
+# Virtual environments
+.venv

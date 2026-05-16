@@ -1,0 +1,2 @@
+val_acc,val_precision_mac,val_precision_wtd,val_recall_mac,val_recall_wtd,val_f1_mac,val_f1_wtd
+0.91696970,0.83187816,0.91941595,0.83508421,0.91696970,0.83302585,0.91771691

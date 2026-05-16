@@ -1,0 +1,22 @@
+[project]
+name = "t12026-mlpp"
+version = "0.1.0"
+description = "Code for T12026 MLP Project Competition of the IITM BS in Data Science Program."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "catboost==1.2.10",
+    "ipywidgets>=8.1.8",
+    "joblib==1.5.3",
+    "jupyter>=1.1.1",
+    "lightgbm==4.6.0",
+    "matplotlib==3.10.8",
+    "nbformat==5.10.4",
+    "numpy==2.4.1",
+    "pandas==2.3.3",
+    "plotly==6.6.0",
+    "scikit-learn==1.8.0",
+    "seaborn==0.13.2",
+    "umap-learn==0.5.11",
+    "xgboost==3.1.3",
+]
